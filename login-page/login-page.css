@@ -119,6 +119,7 @@
     }
     .solid-button {
         cursor: pointer;
+        color: whitesmoke;
     }
     .input-label{
         font-size: 0.8rem;
